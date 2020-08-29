@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # pj 만들자마자 migrate 해도 migration 되는 이유는 여기 이미 app들이 만들어져있기 때문
+    'main',
 ]
 
 MIDDLEWARE = [
