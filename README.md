@@ -25,3 +25,5 @@
 2. [[2강] 모델과 데이터베이스](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_2.ipynb)
 
 3. [[3강] ModelForm](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_3.ipynb)
+
+4. [[4강] PrimaryKey](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_3.ipynb)
