@@ -26,4 +26,4 @@
 
 3. [[3강] ModelForm](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_3.ipynb)
 
-4. [[4강] PrimaryKey](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_3.ipynb)
+4. [[4강] PrimaryKey](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_4.ipynb)
