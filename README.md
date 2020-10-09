@@ -2,9 +2,9 @@
 
 <div align="center">
   <img alt="GitHub last commit" align="center"
-    src="https://img.shields.io/github/last-commit/4923/mathematics_REBOOT">
-  <img alt="top lang" align="center" src="https://img.shields.io/github/languages/top/4923/mathematics_REBOOT">
-  <img alt="commitss" align="center" src="https://img.shields.io/github/commit-activity/m/4923/mathematics_REBOOT">
+    src="https://img.shields.io/github/last-commit/4923/Jasoseol.com">
+  <img alt="top lang" align="center" src="https://img.shields.io/github/languages/top/4923/Jasoseol.com">
+  <img alt="commitss" align="center" src="https://img.shields.io/github/commit-activity/m/4923/Jasoseol.com">
 </div>
 <a href = "https://jasoseol.com">Target WebSite: Jasoseol.com </a><br>
 <a href = "https://docs.djangoproject.com/ko/3.1/contents/">Django official Document </a><br>
