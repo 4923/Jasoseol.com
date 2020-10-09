@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from main.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    # 아무것도 들어오지 않았을 때 index 라는 함수 (views.py의)를 실행하고 일련의 과정을 index라고 명명한다.
+    path('',index, name="index"),
 ]
