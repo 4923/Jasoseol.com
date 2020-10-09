@@ -18,7 +18,7 @@
 
 ## Contents
 
-0. [[Lecture summary: notion]](https://www.notion.so/index-html-6582b7a322764495a25151411eee6da8)
+0. [Lecture summary: notion](https://www.notion.so/68971c4ea7e948d1b1d994cfa99ac35b)
 
 1. [[1강] 자소설 닷컴 만들기](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_1.ipynb)
 

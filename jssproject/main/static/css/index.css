@@ -1,0 +1,11 @@
+/* margin이나 padding이 남아있을 수 있으므로 0으로 초기화 */
+body{
+    margin:0;
+    padding:50px;
+}
+
+.make_jss{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}

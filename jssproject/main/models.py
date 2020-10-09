@@ -2,7 +2,7 @@ from django.db import models
 
 # Create your models here.
 
-# class 이름은 첫글자 대문자, 의미단위
+# class 이름은 첫글자 대문자, 의미단위 (PascalCase)
 class Jasoseol(models.Model):
 # Model을 상속받아 model 만든다
   title = models.CharField(max_length = 50)
