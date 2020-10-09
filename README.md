@@ -7,6 +7,7 @@
   <img alt="commitss" align="center" src="https://img.shields.io/github/commit-activity/m/4923/mathematics_REBOOT">
 </div>
 <a href = "https://jasoseol.com">Target WebSite: Jasoseol.com </a><br>
+<a href = "https://docs.djangoproject.com/ko/3.1/contents/">Django official Document </a><br>
 
 <details>
 <summary> 
