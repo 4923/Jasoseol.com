@@ -17,6 +17,9 @@
 </details>
 
 ## Contents
+
+0. [[Lecture summary: notion]](https://www.notion.so/index-html-6582b7a322764495a25151411eee6da8)
+
 1. [[1강] 자소설 닷컴 만들기](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_1.ipynb)
 
 2. [[2강] 모델과 데이터베이스](https://github.com/4923/Jasoseol.com/blob/master/jasoseol_2.ipynb)
